@@ -3,7 +3,7 @@ sarcinello-chatbot
 
 A javascript bot
 
-This is a FORK of the projecy by LIOUH (http://liouh.com/bot/)
+This is a FORK of the project by LIOUH (http://liouh.com/bot/)
 
 ### Library Dependencies
 
